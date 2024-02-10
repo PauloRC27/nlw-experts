@@ -6,6 +6,3 @@
 - CSS
 - JavaScript
 - Github
-
-
-test
