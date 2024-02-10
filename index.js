@@ -6,7 +6,7 @@ const perguntas = [
         "let",
         "const",
       ],
-      correta: 2
+      correta: 1
     },
     {
       pergunta: "Qual operador é usado para comparar valores e tipos em JavaScript?",
@@ -15,7 +15,7 @@ const perguntas = [
         "===",
         "!=",
       ],
-      correta: 1
+      correta: 0
     },
     {
       pergunta: "Como você acessa o último elemento de um array chamado 'arr' em JavaScript?",
@@ -24,7 +24,7 @@ const perguntas = [
         "arr[arr.length - 1]",
         "arr[-1]",
       ],
-      correta: 1
+      correta: 0
     },
     {
       pergunta: "O que o método 'console.log()' faz em JavaScript?",
@@ -33,7 +33,7 @@ const perguntas = [
         "Exibe um alerta na tela",
         "Exibe mensagens no console do navegador",
       ],
-      correta: 2
+      correta: 1
     },
     {
       pergunta: "Qual dos seguintes é um tipo de dado em JavaScript?",
@@ -42,7 +42,7 @@ const perguntas = [
         "Stringify",
         "Float",
       ],
-      correta: 1
+      correta: 0
     },
     {
       pergunta: "Como você declara uma função em JavaScript?",
@@ -51,7 +51,7 @@ const perguntas = [
         "function: minhaFuncao() {}",
         "function minhaFuncao() {}",
       ],
-      correta: 1
+      correta: 0
     },
     {
       pergunta: "O que o operador '&&' representa em JavaScript?",
@@ -60,7 +60,7 @@ const perguntas = [
         "E lógico",
         "OU exclusivo",
       ],
-      correta: 2
+      correta: 1
     },
     {
       pergunta: "Qual é a maneira correta de comentar uma linha em JavaScript?",
@@ -69,7 +69,7 @@ const perguntas = [
         "/* Este é um comentário */",
         "# Este é um comentário",
       ],
-      correta: 1
+      correta: 0
     },
     {
       pergunta: "Qual método é usado para converter uma string em um número inteiro em JavaScript?",
@@ -78,7 +78,7 @@ const perguntas = [
         "toFloat()",
         "toInteger()",
       ],
-      correta: 1
+      correta: 0
     },
     {
       pergunta: "Qual função é usada para agendar uma função para ser executada após um intervalo de tempo em JavaScript?",
@@ -87,7 +87,7 @@ const perguntas = [
         "setInterval()",
         "setDelay()",
       ],
-      correta: 1
+      correta: 0
     },
   ];
   
